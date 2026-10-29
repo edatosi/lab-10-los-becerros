@@ -26,8 +26,10 @@ public final class Integrantes {
         List<Tarjeta> lista = new ArrayList<>();
 
         lista.add(new Tarjeta("gabhernandez125-wq", "Gabriela Hernandez", "Bienvenidos al trabajo en equipo. Agreguen su tarjeta!", "#6e72ed"));
-        // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
+        lista.add(new Tarjeta("marguaranguay125-collab", "maria guaracha", "hola que viva la guaracha >:(", "#e90000"));
+
 
         return lista;
     }
+    
 }
