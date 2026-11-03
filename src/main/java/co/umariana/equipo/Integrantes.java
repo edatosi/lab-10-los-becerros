@@ -28,6 +28,8 @@ public final class Integrantes {
         lista.add(new Tarjeta("gabhernandez125-wq", "Gabriela Hernandez", "Bienvenidos al trabajo en equipo. Agreguen su tarjeta!", "#6e72ed"));
         lista.add(new Tarjeta("marguaranguay125-collab", "maria guaracha", "hola que viva la guaracha >:(", "#e90000"));
         lista.add(new Tarjeta("estceron125-ai", "Estiven Ceron", "bienvenidos a mi tarjeta de integrante", "#4f51ff"));
+        lista.add(new Tarjeta("andcastro125-rgb", "Andrés Castro", "Bien o que pelaos", "#58aab8ff"));
+
 
         return lista;
     }
